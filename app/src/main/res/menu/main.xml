@@ -2,6 +2,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/action_settings"
-        android:title="搜索设备"
-        />
+        android:icon="@drawable/dialog_icon"
+        android:title="搜索设备"/>
+
 </menu>
+

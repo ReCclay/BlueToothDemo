@@ -1,4 +1,4 @@
-package com.clay.bluetooth2;
+package com.clay.bluetooth3;
 
 import org.junit.Test;
 

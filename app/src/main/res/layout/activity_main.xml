@@ -7,215 +7,88 @@
     tools:context=".MainActivity"
     tools:layout_editor_absoluteY="81dp">
 
-    <Button
-        android:id="@+id/Button033"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="184dp"
-        android:layout_marginStart="184dp"
-        android:layout_marginTop="360dp"
-        android:text="待定"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button0D"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="272dp"
-        android:layout_marginStart="272dp"
-        android:layout_marginTop="360dp"
-        android:text="待定"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button09"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="184dp"
-        android:layout_marginStart="184dp"
-        android:layout_marginTop="264dp"
-        android:text="9"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button01"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="84dp"
-        android:text="1"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button088"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="360dp"
-        android:text="待定"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button0C"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="272dp"
-        android:layout_marginStart="272dp"
-        android:layout_marginTop="264dp"
-        android:text="待定"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button08"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="96dp"
-        android:layout_marginStart="96dp"
-        android:layout_marginTop="264dp"
-        android:text="8"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button03"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="184dp"
-        android:layout_marginStart="184dp"
-        android:layout_marginTop="84dp"
-        android:text="3"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button0A"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="272dp"
-        android:layout_marginStart="272dp"
-        android:layout_marginTop="84dp"
-        android:text="待定"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button02"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="96dp"
-        android:layout_marginStart="96dp"
-        android:layout_marginTop="84dp"
-        android:text="2"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button05"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="96dp"
-        android:layout_marginStart="96dp"
-        android:layout_marginTop="172dp"
-        android:text="5"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button06"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="184dp"
-        android:layout_marginStart="184dp"
-        android:layout_marginTop="172dp"
-        android:text="6"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button0B"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="272dp"
-        android:layout_marginStart="272dp"
-        android:layout_marginTop="172dp"
-        android:text="待定"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button00"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="96dp"
-        android:layout_marginStart="96dp"
-        android:layout_marginTop="360dp"
-        android:text="0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button07"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="264dp"
-        android:text="7"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button04"
-        android:layout_width="72dp"
-        android:layout_height="70dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="172dp"
-        android:text="4"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/Button1"
-        android:layout_width="wrap_content"
-        android:layout_height="49dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginRight="16dp"
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
+        android:background="@drawable/textboxshape"
+        android:fadeScrollbars="false"
+        android:hint="接收数据..."
+        android:scrollbars="vertical"
+        android:textSize="17sp"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="@+id/editText11"
+        app:layout_constraintStart_toStartOf="@+id/editText11"
+        app:layout_constraintTop_toBottomOf="@+id/editText11" />
+
+    <EditText
+        android:id="@+id/editText11"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:background="@drawable/textboxshape"
+        android:ems="10"
+        android:fadeScrollbars="false"
+        android:gravity="left|top"
+        android:hint="发送数据.."
+        android:inputType="textMultiLine"
+        android:scrollbars="vertical"
+        android:textSize="17sp"
+        app:layout_constraintBottom_toTopOf="@+id/button13"
+        app:layout_constraintEnd_toStartOf="@+id/button12"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/button11" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="1dp"
+        android:layout_marginRight="1dp"
+        android:background="@drawable/buttonshape"
         android:text="发送"
+        app:layout_constraintBottom_toTopOf="@+id/button12"
+        app:layout_constraintEnd_toEndOf="@+id/button12" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="7dp"
+        android:layout_marginRight="7dp"
+        android:background="@drawable/buttonshape"
+        android:text="清空"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <EditText
-        android:id="@+id/editText1"
-        android:layout_width="0dp"
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="16dp"
-        android:ems="10"
-        android:inputType="textPersonName"
-        app:layout_constraintEnd_toStartOf="@+id/Button1"
-        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginEnd="6dp"
+        android:layout_marginRight="6dp"
+        android:layout_marginTop="72dp"
+        android:background="@drawable/buttonshape"
+        android:text="清空"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/editText11"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
-        android:text="Made by CLAY V1.O"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:text="Design by CLAY V1.0"
         android:textColor="@android:color/holo_red_light"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintEnd_toEndOf="@+id/textView11" />
 
 </android.support.constraint.ConstraintLayout>
